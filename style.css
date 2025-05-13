@@ -1,0 +1,69 @@
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+header {
+  background-color: #222;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+section {
+  padding: 20px;
+  margin: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+}
+
+h2 {
+  color: #444;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  background: #eaeaea;
+  margin: 5px 0;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.profile-pic {
+  width: 150px;
+  border-radius: 50%;
+  margin-top: 10px;
+}
+
+.project img {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  margin-top: 10px;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 15px;
+  background: #007bff;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+footer {
+  text-align: center;
+  padding: 15px;
+  background-color: #222;
+  color: #fff;
+  margin-top: 20px;
+}
